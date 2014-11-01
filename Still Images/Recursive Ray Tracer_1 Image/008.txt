@@ -1,0 +1,43 @@
+4
+amb: 0.1 0.1 0.1
+sphere
+pos: 0 0 -4.0
+rad: 0.5
+dif: 0.5 0.2 0.2
+spe: 0.5 0.5 0.5
+shi: 1
+triangle
+pos: -2 2 -3
+nor: 0.707 0 0.707 
+dif: 0 0 0
+spe: 1 1 1
+shi: 1
+pos: -2 -2 -3
+nor: 0.707 0 0.707 
+dif: 0 0 0
+spe: 1 1 1
+shi: 1
+pos: 0 -2 -5
+nor: 0.707 0 0.707 
+dif: 0 0 0
+spe: 1 1 1
+shi: 1
+triangle
+pos: -2 2 -3
+nor: 0.707 0 0.707 
+dif: 0 0 0
+spe: 1 1 1
+shi: 1
+pos: 0 2 -5
+nor: 0.707 0 0.707 
+dif: 0 0 0
+spe: 1 1 1
+shi: 1
+pos: 0 -2 -5
+nor: 0.707 0 0.707 
+dif: 0 0 0
+spe: 1 1 1
+shi: 1
+light
+pos: -4 0 0
+col: 1 1 1
